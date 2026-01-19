@@ -1,3 +1,4 @@
-Dragon X client for eagler craft x. 
-
-THIS IS AN OLD PROJECT. stuff may not work anymore, all i did was upload this file. its not made by me so I can't fix anything.
+Created 2026
+Fusion of PiClient and DragonX, thanks to the original creators :D
+Arrow keys to scroll through hacks
+Comes with Bare Bones texture pack
